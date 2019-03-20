@@ -4,8 +4,7 @@
 
 ## Índice
 
--  [#como-usar-el-bot](¿Como usar el bot?)
-        - [#test](test)
+[https://github.com/libthis/PotterFAQ/blob/master/README.md#como-usar-el-bot](Como usar el bot)
 
 ### ¿Como usar el bot?
 
@@ -35,13 +34,10 @@ Si escribimos despues de un signo de slash "/" el nombre una rom (por ejemplo AO
 
     En este caso pedimos la rom AOSIP para el dispositivo Potter
 
-Es importante destacar que no todas las roms pueden estar disponibles, ya que muchas son no oficiales o simplemente no se encuentran en su pagina oficial, en caso de no encontrarlas esta también el canal de Telegram de roms [@g5pluslinks](https://t.me/g5pluslinks]
+Es importante destacar que no todas las roms pueden estar disponibles, ya que muchas son no oficiales o simplemente no se encuentran en su pagina oficial, en caso de no encontrarlas esta también el canal de Telegram de roms [@g5pluslinks](https://t.me/g5pluslinks)
 
 También podemos pedirle al bot la rom Stock, pero en este caso sera para ser instalada por fastboot
 
 ![](https://raw.githubusercontent.com/libthis/PotterFAQ/master/img/img4.jpg)
 
 También se puede pedir magisk usando el comando /magisk, al igual que el ultimo twrp /twrp potter
-
-
-### test
