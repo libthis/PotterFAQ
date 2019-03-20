@@ -4,7 +4,7 @@
 
 ## Índice
 
-[https://github.com/libthis/PotterFAQ/blob/master/README.md#como-usar-el-bot](Como usar el bot)
+[¿Como usar el bot?](https://github.com/libthis/PotterFAQ/blob/master/README.md#como-usar-el-bot)
 
 ### ¿Como usar el bot?
 
